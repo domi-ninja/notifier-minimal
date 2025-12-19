@@ -1,0 +1,1 @@
+Run this project in the background so you can see errors in the console

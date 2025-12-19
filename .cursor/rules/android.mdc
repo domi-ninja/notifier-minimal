@@ -1,0 +1,7 @@
+---
+alwaysApply: true
+---
+
+# android dev rules
+
+- After implementing a substantial feature, always build app, flash it to phone and check for obvious errors
